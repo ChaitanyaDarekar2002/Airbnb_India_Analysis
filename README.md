@@ -212,6 +212,8 @@ jupyter notebook
 ## 📊 SQL Charts
 <img width="1477" height="854" alt="Screenshot 2026-05-14 143907" src="https://github.com/user-attachments/assets/448d86c1-8079-4750-9e28-996c45445a0a" />
 
+## Tableau Dashboard
+<img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/b7d305a1-233c-424a-a625-56f04b6cf057" />
 
 ---
 
